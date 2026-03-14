@@ -1,7 +1,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm Senior DevOps | Platform | QA Engineer</h1>
+<h1 align="center">Hi 👋, I'm Piotr</h1>
+<h3 align="center">Senior DevOps | Platform | QA Engineer</h3>
+<h4 align="center">A passionate Programmer from Poland</h4>
 
 <p align="center">
 I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.  
@@ -11,7 +13,6 @@ I enjoy designing resilient architectures, automated testing strategies, and hig
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="Piotr" /> 
- <img alt="Profile followers" src="https://img.shields.io/github/followers/yourgithubusername">
 </p>
 
 <div align="center">
@@ -43,28 +44,6 @@ I enjoy designing resilient architectures, automated testing strategies, and hig
 - 💬 Ask me about **DevOps, Kubernetes, Cloud Infrastructure, Observability, CI/CD**
 
 - ⚡ Fun fact: **I love turning complex infrastructure into automated self-service platforms**
-
-- 📄 Know about my professional experience on **LinkedIn**
-
-<br>
-
-<h3 align="left">🌐 Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/yourlinkedin">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="80" />
-</a>
-
-<a href="https://twitter.com/yourtwitter">
-<img align="center" src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white" width="80" />
-</a>
-
-<a href="https://medium.com/@yourmedium">
-<img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" width="80" />
-</a>
-
-</p>
 
 <br>
 
@@ -123,13 +102,5 @@ Selenium • Cypress • Playwright • JMeter • Postman
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h2 align="center">Visitors Count</h2>
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/{yourgithubusername}/count.svg" />
-</p>
-
-<br><br>
 
 <p align="right">Created with ❤️ by Piotr</p>
