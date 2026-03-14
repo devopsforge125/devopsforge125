@@ -1,24 +1,41 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
-<h1 align="center">🚀 Hey there, I’m a Senior DevOps / Platform Engineer 👋</h1>
-<h3 align="center">Hi 👋, I'm Adam</h3>
-<h4 align="center">A passionate Programmer from Poland</h4>
+<table>
+<tr>
+<td width="55%">
 
-<p align="center">
+<h1>Hi 👋, I'm Adam</h1>
+<h3>A passionate Programmer from Poland</h3>
+
+<p>
 I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.
-Passionate about cloud-native technologies, CI/CD pipelines, Kubernetes ecosystems, and observability systems.
 </p>
 
-<p align="center">
-⚙️ DevOps Architect • ☁️ Cloud Engineer • 🚀 Platform Engineer • 📦 Kubernetes Specialist • 🔁 CI/CD Ninja • 🔍 Observability Engineer • 🧪 QA Automation Engineer • 🔐 DevSecOps Advocate • 🏗 Infrastructure as Code Expert • ⚡ Automation Enthusiast
+<p>
+⚙️ DevOps Architect •  
+☁️ Cloud Engineer •  
+🚀 Platform Engineer •  
+📦 Kubernetes Specialist •  
+🔁 CI/CD Ninja •  
+🔍 Observability Engineer •  
+🧪 QA Automation Engineer •  
+🔐 DevSecOps Advocate •  
+🏗 Infrastructure as Code Expert •  
+⚡ Automation Enthusiast
 </p>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="420"/>
+
+</td>
+</tr>
+</table>
 
 <br>
-
-<img align="right" alt="DevOps" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -91,4 +108,6 @@ Passionate about cloud-native technologies, CI/CD pipelines, Kubernetes ecosyste
 
 <br>
 
-<p align="right">Created with ❤️ by Piotr</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<p align="right">Created with ❤️ by Adam</p>
