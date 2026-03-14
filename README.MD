@@ -7,7 +7,7 @@
 
 ### A passionate Programmer from Poland
 
-#### I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.
+### I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.
 
 <br>
 
@@ -23,9 +23,9 @@
 
 ### 💡 About My Work
 
-I focus on building **cloud-native platforms, CI/CD automation pipelines, and scalable infrastructure**.
+### I focus on building **cloud-native platforms, CI/CD automation pipelines, and scalable infrastructure**.
 
-My work revolves around:
+### My work revolves around:
 
 - DevOps automation
 - Kubernetes ecosystem
