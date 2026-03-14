@@ -1,24 +1,181 @@
-# 💫 About Me:
-# 🚀 Hey there, I'm a Senior DevOps / Platform Engineer 👋<br><br>### Automating infrastructure • Building cloud platforms • Enabling developer productivity<br><br>⚙️ DevOps Engineer | ☁️ Cloud Architect | 🚀 Platform Builder  <br>🔁 CI/CD Specialist | 📦 Kubernetes Engineer | 🔍 Observability Advocate  <br>🧪 QA Automation Enthusiast | 🔐 DevSecOps Practitioner | 🏗 Infrastructure as Code Expert<br><br><br><br>## 👨‍💻 About Me<br><br>🔭 I’m a **Senior DevOps / Platform / QA Engineer** focused on building scalable, reliable, and automated cloud platforms.<br><br>⚙️ I specialize in **CI/CD pipelines, cloud infrastructure, container orchestration, and observability** to help teams ship software faster and more safely.<br><br>🚀 Passionate about **platform engineering, developer experience, automation, and cloud-native technologies**.<br><br>🤝 I enjoy collaborating with engineering teams to design **resilient architectures, automated testing strategies, and high-availability systems**.<br><br>📚 Currently exploring **advanced Kubernetes ecosystem tools, platform engineering practices, and AI-driven DevOps automation**.<br><br>💬 Ask me about **DevOps, Kubernetes, CI/CD pipelines, cloud infrastructure, platform engineering, and observability**.<br><br>⚡ Fun fact: I love turning complex infrastructure into **simple, automated, and self-service platforms for developers.**<br><br><br><br><br>⚙️ DevOps Architect  <br>☁️ Cloud Engineer  <br>🚀 Platform Engineer  <br>📦 Kubernetes Specialist  <br>🔁 CI/CD Ninja  <br>🔍 Observability Engineer  <br>🧪 QA Automation Engineer  <br>🔐 DevSecOps Advocate  <br>🏗 Infrastructure as Code Expert  <br>⚡ Automation Enthusiast
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi 👋, I'm Deepesh Gupta</h1>
+<h3 align="center">A passionate Programmer from India</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; I've been into software engineering, and my excitement keeps growing. I love trying out new tech tools 💻 and using them to create cool things 🛠️. I'm really into DevOps and Cloud stuff and enjoy contributing to open-source projects. Let's connect and code something awesome together!🚀</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=deepeshmlgupta&label=Profile%20views&color=0e75b6&style=flat" alt="Deepesh Gupta" /> 
+ <!-- <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Deepesh Gupta's languages" /> -->
+ <img alt="Profile followers" src="https://img.shields.io/github/followers/deepeshmlgupta">
+</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+   <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" alt="icon" width="50" height="50" />
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m Currently Preparing For **Cloud Computing**
+
+- 🌱 I’m currently learning **Devops**
+
+<!-- - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life) -->
+
+- 💬 Ask me about **C/C++, Java, Python, and Cloud Computing**
+
+<!-- - 📫 How to reach me **deepeshmlgupta3257@gmail.com** -->
+
+- 📄 Know about [my experiences](https://linkedin.com/in/deepeshmlgupta)
+
+- 😄 Pronouns: **He/His**
 
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devopsforge125&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devopsforge125&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devopsforge125&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<br>
+<h3 align="left">🌐Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/deepeshmlgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="deepeshmlgupta" width="80" /></a>
+<a href="https://twitter.com/deepeshmlgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%23000000?logo=x&logoColor=white" alt="deepeshmlgupta" width="80" /></a>
+ <a href="https://deepeshmlgupta.hashnode.dev/" target="_blank"><img align="center" src="https://img.shields.io/badge/Hashnode-%230066FF.svg?logo=Hashnode&logoColor=white" alt="deepeshmlgupta" width="80"/></a>
+ <a href="https://www.instagram.com/deepeshmlgupta/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="deepeshmlgupta" width="80" /></a>
+<a href="https://medium.com/@deepeshmlgupta" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="supun.nanayakkaraii" width="80" /></a>
+<a href="https://peerlist.io/deepeshmlgupta" target="_blank">
+  <img src="https://github-readme-badge.peerlist.io/api/deepeshmlgupta?style=flat-square" alt="Peerlist" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devopsforge125&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devopsforge125&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
-[![](https://visitcount.itsvg.in/api?id=devopsforge125&icon=10&color=3)](https://visitcount.itsvg.in)
+<h3 align="left">💻Languages and Tools:</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,html,css,js,jquery,tailwind,bootstrap" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,docker,kubernetes,vscode,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+<!-- </details> -->
+
+
+<h3 align="left">📊GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshmlgupta&theme=nightowl&hide_border=false" width="49%" style="display:inline;"> 
+
+<br><br>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=deepeshmlgupta&limit=5&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="40%" style="display:inline;"> 
+
+<br><br>
+
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🔝Activity:</h3>
+
+![deepeshmlgupta's Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepeshmlgupta&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br> -->
+
+
+<h3 align="left">🛠️🚀Hacktoberfest2024 </h3>
+
+[![An image of @deepeshgupta3257's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepeshgupta3257)](https://holopin.io/@deepeshgupta3257)
+
+
+<h3>GSSOC'24 Badges🪶 </h3>
+<!-- <details>	 --> <br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
+<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+</div>
+
+
+
+
+<h3 align="left">📊GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepeshmlgupta&theme=nightowl&hide_border=false" width="49%" style="display:inline;"> 
+
+<br><br>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=deepeshmlgupta&limit=5&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true" width="45%" style="display:inline;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshmlgupta&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="40%" style="display:inline;"> 
+
+<br><br>
+
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🔝Activity:</h3>
+
+![deepeshmlgupta's Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepeshmlgupta&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br> -->
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<br><br> -->
+
+<p>
+    <h2 align="center">Visitors Count</h2>
+    <p align="center">
+      <img src="https://profile-counter.glitch.me/{deepeshmlgupta}/count.svg" alt="VisitorCount">
+    </p>
+</p>
+
+<br><br>
+
+<p align="right"> Created with ❤️ by <a href="https://linkedin.com/in/deepeshmlgupta">Deepesh Gupta</a></p>
