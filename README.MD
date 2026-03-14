@@ -6,9 +6,9 @@
 # 🚀 Hey there, I’m a Senior DevOps / Platform Engineer 👋
 
 ### A passionate Programmer from Poland
-
+<h4 align="center">
 ### I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.
-
+</h4>
 <br>
 
 ## ⚙️ DevOps Architect • ☁️ Cloud Engineer • 🚀 Platform Engineer • 📦 Kubernetes Specialist • 🔁 CI/CD Ninja • 🔍 Observability Engineer • 🧪 QA Automation Engineer • 🔐 DevSecOps Advocate • 🏗 Infrastructure as Code Expert • ⚡ Automation Enthusiast
