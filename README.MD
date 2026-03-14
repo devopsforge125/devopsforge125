@@ -7,7 +7,9 @@
 
 ### A passionate Programmer from Poland
 
-### I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.
+<p align="center" style="max-width:750px;margin:auto;">
+I specialize in building scalable cloud platforms, automating infrastructure, and improving developer productivity through DevOps and platform engineering practices.
+</p>
 
 <br>
 
