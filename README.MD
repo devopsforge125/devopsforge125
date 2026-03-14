@@ -21,7 +21,7 @@
 <tr>
 <td width="50%">
 
-### 💡 About My Work
+## 💡 About My Work
 
 ### I focus on building **cloud-native platforms, CI/CD automation pipelines, and scalable infrastructure**.
 
